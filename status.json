@@ -45,8 +45,8 @@
     ]
   },
   {
-    "status": "resolved",
-    "affectedServices": "None",
+    "status": "Resolved",
+    "affectedServices": "lallalala",
     "summary": "Test event.",
     "date": "2026-09-02T15:32",
     "updates": [
