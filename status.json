@@ -43,6 +43,17 @@
         "details": "Test update."
       }
     ]
+  },
+  {
+    "status": "resolved",
+    "affectedServices": "None",
+    "summary": "Test event.",
+    "date": "2026-09-02T15:32",
+    "updates": [
+      {
+        "date": "2026-09-02T15:32",
+        "details": "We're in the ad1-stfc repo now."
+      }
+    ]
   }
-
 ]
