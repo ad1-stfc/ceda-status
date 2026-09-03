@@ -67,5 +67,29 @@
         "details": "2"
       }
     ]
+  },
+  {
+    "status": "Degraded",
+    "affectedServices": "3",
+    "summary": "3",
+    "date": "2026-09-03T10:43",
+    "updates": [
+      {
+        "date": "2026-09-03T10:43",
+        "details": "3"
+      }
+    ]
+  },
+  {
+    "status": "At Risk",
+    "affectedServices": "4",
+    "summary": "4",
+    "date": "2026-09-03T10:44",
+    "updates": [
+      {
+        "date": "2026-09-03T10:44",
+        "details": "4"
+      }
+    ]
   }
 ]
