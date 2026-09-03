@@ -1,6 +1,6 @@
 [
   {
-    "status": "Degraded",
+    "status": "Resolved",
     "affectedServices": "All CEDA and JASMIN services",
     "summary": "Advance notice of next regular scheduled maintenance day",
     "date": "2026-01-27T00:01",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "status": "Degraded",
+    "status": "Resolved",
     "affectedServices": "CEDA Archive",
     "summary": "Technical problem affecting access to disk storage systems.",
     "date": "2025-11-18T12:30",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "status": "Degraded",
+    "status": "resolved",
     "affectedServices": "None",
     "summary": "Test event.",
     "date": "2025-11-20T14:30",
@@ -97,6 +97,18 @@
       {
         "date": "2026-09-03T10:44",
         "details": "4"
+      }
+    ]
+  },
+  {
+    "status": "Resolved",
+    "affectedServices": "5",
+    "summary": "delete me!",
+    "date": "2026-09-03T10:58",
+    "updates": [
+      {
+        "date": "2026-09-03T10:58",
+        "details": "hai"
       }
     ]
   }
