@@ -1,6 +1,6 @@
 [
   {
-    "status": "Down",
+    "status": "Resolved",
     "affectedServices": "All CEDA and JASMIN services",
     "summary": "Advance notice of next regular scheduled maintenance day",
     "date": "2026-01-27T00:01",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "status": "degraded",
+    "status": "Resolved",
     "affectedServices": "CEDA Archive",
     "summary": "Technical problem affecting access to disk storage systems.",
     "date": "2025-11-18T12:30",
